@@ -1,0 +1,97 @@
+{
+  "preweek1": [
+    "Was your first week what you expected? Why? Why not?",
+    "The first week of camp was described to me as \"drinking from a firehose\". I would have to 100% agree with that. We are taking in a ton of information right now. This was expected. What I did not expect was the type of content we are absorbing. I expected to be cramming information about actual code in itself. As of now we are learning more about the programs and collaborative processes that we will be using for the rest of camp. I believe this approach will give us each a strong foundational knowledge before we move forward with our coding journeys.",
+    "-----💠-----",
+    "What are you struggling with?",
+    "Right now the biggest struggle for me is wrapping my brain around how all of our coding software (git, GitHub, VS code, MAMP etc.) work in unison. During the FIYO stage of my application process we used a simple coding website like code pen. This was a very easy coding tool to use and it was all right there in front of you in one place. After starting to familiarize myself with all of our new software, I can see how and why using the different software will be beneficial. ",
+    "-----💠-----",
+    "What are you excited or eager to learn more about?",
+    "Our lead instructor, Justin, encourages us to share our \"ah ha!\" moments. I have found in my journey so far that these are the best parts of coding- that moment when you are struggling with a problem and then BOOM it works! So back tracking... What am I most eager to learn about? I could not put my finger on one thing. What I can say is that I am excited to learn anything and everything new to challenge myself and keep the \"ah ha!\" train rolling! "
+  ],
+  "preweek2": [
+    "What are your thoughts on pseudo coding?",
+    "I have enjoyed pseudo coding. It certainly helps me organize all of the jumbled thoughts bouncing around in my head. The freedom of thinking through your project without being burdened down by making your code work, really helps me better understand what I really want to code to do.",
+    "-----💠-----",
+    "What are you struggling with?",
+    "Currently I am struggling most with recalling HTML and CSS elements and declarations. I feel like I am wasting a lot of time having to go back to w3 as often as I do. I believe this will get better with more repetition!",
+    "-----💠-----",
+    "What are you excited or eager to learn more about?",
+    "I am eager to learn more about JavaScript. In the past I have really struggled with implementing JavaScript. I feel that I am more prepared to tackle Java now that I have more background knowledge."
+  ],
+  "preweek3": [
+    "What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?",
+    "For me to put into words kind of how these work together, I like to compare them to the human body. HTML is the skeleton that holds the framework. CSS is the skin that makes us look human, and JavaScript is the central nervous system that makes everything move.",
+    "-----💠-----",
+    "What are some objects that your blog incorporates?",
+    "My blog incorporates very few things at the moment. It is very basic but as I learn more and progress it will grow. Right now, I have a Nav bar with multiple links, many different images and giphs, a subscribe input box (not currently functional), and a footer that displays the languages that I have incorporated. My favorite thing about the website is that the links in the header change colors when you hover over them. They also stay highlighted when you are on the current page"
+  ],
+  "preweek4": [
+      "What was one thing you liked and disliked about each of the new topics covered in Pre Work?",
+      "HTML",
+      "Like: The simplicity",
+      "Dislike: Nothing",
+      "CSS",
+      "Like: How it adds personality to your site",
+      "Dislike: Spacing and Padding",
+      "JavaScript",
+      "Like: The power and possibilities",
+      "Dislike: The syntax",
+      "-----💠-----",
+      "What was helpful?",
+      "During the prework phase of bootcamp the daily meetings and interactions with the cohort were the most helpful for me. The Slack help channel and daily stand up are great ways to learn from others and voice your struggles.",
+      "-----💠-----",
+      "How did you overcome challenges?",
+      "\"If at first you don’t succeed, try, try again\"",
+      "In this program it is essential to have a thick skin. You are going to fail every single day. It’s those of us who pick ourselves back up quick and hop back on the horse who succeed."
+    ],
+    "front1":[
+        "What is the number one thing that held you back this week? Why?",
+        "Honestly there wasn’t much that held me back this week. I have really benefitted from being in person. I feel like the content for this week was more difficult. But I was able to knock out 90% of the tasks by Tuesday by keeping head down and plugging away. I really enjoy the freedom of having two days to work on styling and stretch goals. This give me time to further my knowledge of the content without freaking out about our Friday code freeze.",
+        "-----💠-----",
+        "What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures)?",
+        "I am starting to get a feel for JSON and data structures. The syntax and application can be a large concept to wrap your head around. I feel like I will do just fine with them after more exposure and practice.",
+        "-----💠-----",
+        "What is one thing you would like to learn more about regarding Bootstrap or Atomic Design?",
+        "I really like the concept of atomic design. It helps me wrap my head around what is actually grouped together in a webpage. Bootstrap must be sent from the good lord himself. Its working in a way that I can understand much better than CSS. I love the ease and clean look."
+
+    ],
+    "front2":[
+        "What did you learn about that helped you understand the development process?",
+        "Asynchronous programming was very interesting. Having an understanding of when and why functions are executing is very useful.",
+        "-----💠-----",
+        "What does it mean to develop good code?",
+        "First off good code is code that works. Better code is code that works and is refactored to its smallest syntax while still being able to be understood by other developers. ",
+        "-----💠-----",
+        "What does it mean to be a good developer?",
+        "Well I cannot speak for everyone, but I currently hate dynamically rendering a page with JavaScript. I understand the usefulness, but I am still learning to do so efficiently."
+    ],
+    "front3":[
+        "What are three ideas you might want to do for your final project?",
+        "I would like to do something with education, kinesiology or video games.",
+        "-----💠-----",
+        "Why do you see JavaScript useful or hard to use?",
+        "I see JavaScript as very useful but hard to use at times.",
+        "-----💠-----",
+        "What aspects about JavaScript are you interested in learning more about?",
+        "I’m looking forward to learning more about classes. I can see the use for them, but I don’t fully understand how they work."
+    ],
+    "front4":[
+        "Why do you see JavaScript Frameworks and Libraries useful or hard to use?",
+        "I think the frameworks and libraries are extremely usedful for object oriented JavaScript. On the other hand, I find them hard to get used to. Once familiarized they can be a wonderful tool!",
+        "-----💠-----",
+        "What Frameworks or Libraries are you interested in learning more about?",
+        "I am very excited to learn React-Strap. Bootstrap completely changed the way that I styled my code. It too me from a zero to slightly above a zero. Im hopping that combining Bootstrap and react will help me become better at React",
+        "-----💠-----",
+        "Find one emerging JavaScript tool that you would like to learn more about or use in your final project.",
+        "I am interest and excited to learn more about Hooks. It seems very useful to have the abililty to set state without using classes"
+    ],
+    "front5":["Coming Soon"],
+    "front6":["Coming Soon"],
+    "back1":["Coming Soon"],
+    "back2":["Coming Soon"],
+    "stack1":["Coming Soon"],
+    "stack2":["Coming Soon"],
+    "stack3":["Coming Soon"],
+    "stack4":["Coming Soon"]
+}
