@@ -3,7 +3,6 @@ import Header from './Header';
 import MeSection from './MeSection';
 import About from './About'
 import Portfolio from "./Portfolio"
-import Stack from "./Stack"
 import Blog from "./Blogs"
 import Footer from "./Footer"
 import TicTac from "./img/tictac.jpg"
@@ -33,7 +32,6 @@ class App extends Component {
         <MeSection />
         <About />
         <Portfolio sources={this.projectData}/>
-        <Stack/>
         <Blog/>
         <Footer/>
       </div>

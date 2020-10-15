@@ -15,7 +15,7 @@ function pTag(array){
 export default function Blogs() {
     return (
         <>
-            <div className="text-center bg-success pb-4">
+            <div className="text-center bg-white pb-4">
                 <h1 className="text-primary text-center pt-3 pb-3">Blog Posts</h1>
                 <i className="fas fa-code fa-spin text-primary pb-3"></i>
                 <div className="d-flex justify-content-around pt-3">
